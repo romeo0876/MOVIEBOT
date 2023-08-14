@@ -31,7 +31,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/romeo0876/Go-Filter-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Jisin0/Go-Filter-Bot/test/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
